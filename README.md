@@ -2,10 +2,13 @@
 
 Aplicación interactiva en Streamlit para explorar el dataset de campañas de marketing bancario. El proyecto se centra en describir la calidad, distribución y relaciones entre variables para apoyar la toma de decisiones; **no desarrolla modelos predictivos**.
 
-## Autora
-- Nombre: **Elena Loayza Arteaga**
-- Especialización: **Python for Analytics**
-- Año: **2026**
+
+
+Autora: **Elena Loayza Arteaga**
+
+Curso: **Especialización en Python for Analytics**
+
+Año: **2026**
 
 ## Funcionalidades
 - Presentación del proyecto y contexto del caso.
