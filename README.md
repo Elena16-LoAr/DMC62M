@@ -4,11 +4,11 @@ Aplicación interactiva en Streamlit para explorar el dataset de campañas de ma
 
 Datos del proyecto
 
-Autora: Elena Loayza Arteaga
+st.write(**Autora: Elena Loayza Arteaga**)
 
-Curso: Especialización en Python for Analytics
+st.write(**Curso: Especialización en Python for Analytics**)
 
-Año: 2026
+st.write(**Año: 2026**)
 
 ## Funcionalidades
 - Presentación del proyecto y contexto del caso.
